@@ -1,0 +1,3 @@
+create database hospital_m
+use hospital_m
+create table employee(D_ID int(5) primary key,NAME varchar(30),MED_LISC char(10),ARRIVETime char(5),LEAVETime char(5),Fees int,SALARY decimal(9,2),FEILD_OF_PRACTICE varchar(30))

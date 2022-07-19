@@ -1,0 +1,1 @@
+create table accounts (Acc_num int(10) primary key,Name Varchar (40),Amount_paid int(7),Total_amount int(7),password Varchar(40))

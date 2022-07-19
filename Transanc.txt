@@ -1,0 +1,1 @@
+create table Transanctions (T_ID int(10) primary key,ACC_num int(10),detail Varchar (40),Price int(7),Status char)
